@@ -1,0 +1,14 @@
+[{
+	"title": "Pinnacle",
+	"url": "https://scan.pinnaclechain.org/",
+	"group": "Mainnets",
+	"icon": "https://raw.githubusercontent.com/pinnacle-projects/frontend-configs/main/configs/network-icons/pinnacle.svg"
+},
+{
+	"title": "Pinnacle Sepolia",
+	"url": "https://scan-sepolia.pinnaclechain.org/",
+	"group": "Testnets",
+	"icon": "https://raw.githubusercontent.com/pinnacle-projects/frontend-configs/main/configs/network-icons/pinnacle.svg",
+	"isActive": true
+}
+]
